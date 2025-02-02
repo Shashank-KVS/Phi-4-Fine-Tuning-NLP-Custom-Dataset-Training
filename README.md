@@ -6,7 +6,9 @@
 📖 Includes: Jupyter Notebook for step-by-step execution + Python script for automated processing.
 💡 Keywords: Phi-4 Fine-Tuning, Custom Dataset, NLP Model Training, AI Text Generation, Hugging Face, LoRA, PEFT.
 
-🔗 GitHub Repository: [coolprodad/Phi-4-Fine-Tuning-Custom-Dataset-Training-for-NLP-Enhancement](https://github.com/coolprodad/Phi-4-Fine-Tuning-Custom-Dataset-Training-for-NLP-Enhancement)
+🔗 GitHub Repository:
+
+[coolprodad/Phi-4-Fine-Tuning-Custom-Dataset-Training-for-NLP-Enhancement](https://github.com/coolprodad/Phi-4-Fine-Tuning-Custom-Dataset-Training-for-NLP-Enhancement)
 
 # Phi-4 Fine-Tuning: Custom Dataset Training for NLP Enhancement
 
