@@ -10,7 +10,7 @@
 
 [coolprodad/Phi-4-Fine-Tuning-NLP-Custom-Dataset-Training](https://github.com/coolprodad/Phi-4-Fine-Tuning-Custom-Dataset-Training-for-NLP-Enhancement)
 
-# Phi-4 Fine-Tuning: Custom Dataset Training for NLP Enhancement
+# Phi-4-Fine-Tuning-NLP-Custom-Dataset-Training
 
 ## 📌 Overview
 This repository provides a **step-by-step guide** to fine-tuning **Phi-4**, a powerful AI language model, using **custom datasets**. It is designed for **NLP practitioners, AI researchers, and developers** looking to enhance model performance with domain-specific data.
