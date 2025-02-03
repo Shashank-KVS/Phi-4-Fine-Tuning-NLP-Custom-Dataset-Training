@@ -8,7 +8,7 @@
 
 🔗 GitHub Repository:
 
-[coolprodad/Phi-4-Fine-Tuning-Custom-Dataset-Training-for-NLP-Enhancement](https://github.com/coolprodad/Phi-4-Fine-Tuning-Custom-Dataset-Training-for-NLP-Enhancement)
+[coolprodad/Phi-4-Fine-Tuning-NLP-Custom-Dataset-Training](https://github.com/coolprodad/Phi-4-Fine-Tuning-Custom-Dataset-Training-for-NLP-Enhancement)
 
 # Phi-4 Fine-Tuning: Custom Dataset Training for NLP Enhancement
 
@@ -64,7 +64,7 @@ python custom_data_input_phi_4_finetune.py
 
 ## 🔗 GitHub Repository
 
-[Phi-4 Fine-Tuning: Custom Dataset Training for NLP Enhancement](https://github.com/coolprodad/Phi-4-Fine-Tuning-Custom-Dataset-Training-for-NLP-Enhancement)
+[Phi-4-Fine-Tuning-NLP-Custom-Dataset-Training](https://github.com/coolprodad/Phi-4-Fine-Tuning-Custom-Dataset-Training-for-NLP-Enhancement)
 
 ## 📬 Contact
 
